@@ -42,4 +42,4 @@
 </nav>
 ```
 
-![Kartinka](https://yandex.ru/images/search?pos=7&from=tabbar&img_url=https%3A%2F%2Fwww.tokkoro.com%2Fpicsup%2F5665459-reign-fire-wallpapers.jpg&text=%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA+%D0%BF%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9&rpt=simage/150x100)
+![kartinka](https://f.kinozon.tv/%D0%BA%D0%B0%D0%B4%D1%80%D1%8B/8526/%D0%9F%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA-37.jpg)
